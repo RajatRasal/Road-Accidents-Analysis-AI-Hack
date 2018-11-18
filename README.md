@@ -28,7 +28,7 @@ Here is the challenge documentation: https://harrisonzhu508.github.io/Documentat
 ### Initial Analysis
 
 One of the things we did first was to analyse the data given to try to find some trends. We plotted some of these trends to visualise them better:
-![](Graphs\ \&\ Pictures//Correlation\ Graphs//casualty_severity_to_age_band_of_casualty.jpg)
+![graph1](Graphs\ \&\ Pictures//Correlation\ Graphs//casualty_severity_to_age_band_of_casualty.jpg)
 ![](Graphs\ \&\ Pictures//Correlation\ Graphs//casualty_severity_to_day_of_week.jpg)
 
 Then, to visualise the geographical representation of these accidents over time, we replaced individual longitudes and latitudes based on mean value of each police force's location, to plot frequencies by sector.
