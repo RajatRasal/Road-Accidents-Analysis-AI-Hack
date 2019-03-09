@@ -33,7 +33,7 @@ One of the things we did first was to analyse the data given to try to find some
 
 Then, to visualise the geographical representation of these accidents over time, we replaced individual longitudes and latitudes based on mean value of each police force's location, to plot frequencies by sector.
 
-![Frequency of Incidents by Location](Graphs & Pictures/Pictures/uk_map.png)
+![Frequency of Incidents by Location]('Graphs & Pictures/Pictures/uk_map.png')
 
 We then also categorised the data by month, and plotted these results on 12 graphs, to show change over time.
 
